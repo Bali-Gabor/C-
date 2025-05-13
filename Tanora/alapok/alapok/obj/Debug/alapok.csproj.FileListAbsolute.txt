@@ -1,0 +1,14 @@
+C:\Users\bali.gabor\Desktop\c#\alapok\alapok\bin\Debug\alapok.exe.config
+C:\Users\bali.gabor\Desktop\c#\alapok\alapok\bin\Debug\alapok.exe
+C:\Users\bali.gabor\Desktop\c#\alapok\alapok\bin\Debug\alapok.pdb
+C:\Users\bali.gabor\Desktop\c#\alapok\alapok\obj\Debug\alapok.csproj.AssemblyReference.cache
+C:\Users\bali.gabor\Desktop\c#\alapok\alapok\obj\Debug\alapok.csproj.CoreCompileInputs.cache
+C:\Users\bali.gabor\Desktop\c#\alapok\alapok\obj\Debug\alapok.exe
+C:\Users\bali.gabor\Desktop\c#\alapok\alapok\obj\Debug\alapok.pdb
+C:\Users\balig\Visual Studio\C#\Tanóra\alapok\alapok\bin\Debug\alapok.exe.config
+C:\Users\balig\Visual Studio\C#\Tanóra\alapok\alapok\bin\Debug\alapok.exe
+C:\Users\balig\Visual Studio\C#\Tanóra\alapok\alapok\bin\Debug\alapok.pdb
+C:\Users\balig\Visual Studio\C#\Tanóra\alapok\alapok\obj\Debug\alapok.csproj.AssemblyReference.cache
+C:\Users\balig\Visual Studio\C#\Tanóra\alapok\alapok\obj\Debug\alapok.csproj.CoreCompileInputs.cache
+C:\Users\balig\Visual Studio\C#\Tanóra\alapok\alapok\obj\Debug\alapok.exe
+C:\Users\balig\Visual Studio\C#\Tanóra\alapok\alapok\obj\Debug\alapok.pdb
