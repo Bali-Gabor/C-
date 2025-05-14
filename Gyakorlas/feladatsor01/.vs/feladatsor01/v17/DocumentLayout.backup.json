@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\balig\\Visual Studio\\C#\\Gyakorlas\\feladatsor01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{725F8039-9FB4-46B8-810D-FAB9F006C933}|feladatsor01\\feladatsor01.csproj|c:\\users\\balig\\visual studio\\c#\\gyakorlas\\feladatsor01\\feladatsor01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{725F8039-9FB4-46B8-810D-FAB9F006C933}|feladatsor01\\feladatsor01.csproj|solutionrelative:feladatsor01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\balig\\Visual Studio\\C#\\Gyakorlas\\feladatsor01\\feladatsor01\\Program.cs",
+              "RelativeDocumentMoniker": "feladatsor01\\Program.cs",
+              "ToolTip": "C:\\Users\\balig\\Visual Studio\\C#\\Gyakorlas\\feladatsor01\\feladatsor01\\Program.cs*",
+              "RelativeToolTip": "feladatsor01\\Program.cs*",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAQwD8AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T12:16:15.646Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

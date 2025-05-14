@@ -1,0 +1,7 @@
+C:\Users\balig\Visual Studio\C#\Gyakorlas\feladatsor01\feladatsor01\obj\Debug\feladatsor01.csproj.AssemblyReference.cache
+C:\Users\balig\Visual Studio\C#\Gyakorlas\feladatsor01\feladatsor01\obj\Debug\feladatsor01.csproj.CoreCompileInputs.cache
+C:\Users\balig\Visual Studio\C#\Gyakorlas\feladatsor01\feladatsor01\bin\Debug\feladatsor01.exe.config
+C:\Users\balig\Visual Studio\C#\Gyakorlas\feladatsor01\feladatsor01\bin\Debug\feladatsor01.exe
+C:\Users\balig\Visual Studio\C#\Gyakorlas\feladatsor01\feladatsor01\bin\Debug\feladatsor01.pdb
+C:\Users\balig\Visual Studio\C#\Gyakorlas\feladatsor01\feladatsor01\obj\Debug\feladatsor01.exe
+C:\Users\balig\Visual Studio\C#\Gyakorlas\feladatsor01\feladatsor01\obj\Debug\feladatsor01.pdb
