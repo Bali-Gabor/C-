@@ -126,10 +126,109 @@ namespace feladatsor01
 
             // SZELEKCIÓ
 
+            // 1)	Páros vs páratlan (pros_ptalan)
+
+            //Console.Write("Írj be egy számot:  ");
+            //int szam = Convert.ToInt32(Console.ReadLine());
+            //if(szam % 2 == 0)
+            //{
+            //    Console.WriteLine("A szám páros.");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("A szám páratlan.");
+            //}
+
+
+            // 2)	Pozitív vs negatív (poz_neg)
+
+            //Console.Write("Adj meg egy számot:  ");
+            //int szam = Convert.ToInt32(Console.ReadLine());
+            //if (szam > 0)
+            //{
+            //    Console.WriteLine("A szám pozitív.");
+            //}
+            //else if (szam < 0)
+            //{
+            //    Console.WriteLine("A szám negatív.");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("A szám nulla.");
+            //}
+
+
+            // 3)	Oszthatóság (oszthatosag)
+
+            //Console.Write("Adj meg egy számot:  ");
+            //int szam = Convert.ToInt32(Console.ReadLine());
+            //if (szam % 5  == 0)
+            //{
+            //    Console.WriteLine($"A szám osztható 5-tel,hányadosa: {szam / 5}");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("A szám nem osztható 5-tel.");
+            //}
+
+
+            // 4)	Nap meghatározás (nap)
+
+            //Console.Write("Add meg, hogy a hét hányadik napja van:  ");
+            //int nap = Convert.ToInt32(Console.ReadLine());
+            //switch (nap)
+            //{
+            //    case 1: Console.WriteLine("Hétfő");
+            //        break;
+            //    case 2: Console.WriteLine("Kedd");
+            //        break;
+            //    case 3: Console.WriteLine("Szerda");
+            //        break;
+            //    case 4: Console.WriteLine("Csütörtök");
+            //        break;
+            //    case 5: Console.WriteLine("Péntek");
+            //        break;
+            //    case 6: Console.WriteLine("Szombat");
+            //        break;
+            //    case 7: Console.WriteLine("Vasárnap");
+            //        break;
+            //    default: Console.WriteLine("Érvénytelen szám!");
+            //        break;
+            //}
+
+
+            // 5)	Érdemjegy1 (osztalyzat)
+
+            //Console.Write("Add meg, hogy hány pontos a dolgozat:  ");
+            //double pont = Convert.ToDouble(Console.ReadLine());
+            //Console.Write("Add meg az elért pontoszámot:  ");
+            //double pontszam = Convert.ToDouble(Console.ReadLine());
+            //double szazalek = pontszam / pont * 100;
+            //Console.Write("A dolgozat eredménye:  ");
+            //if (szazalek <= 32)
+            //{
+            //    Console.WriteLine("1");
+            //}
+            //else if (szazalek <= 49)
+            //{
+            //    Console.WriteLine("2");
+            //}
+            //else if (szazalek <= 69)
+            //{
+            //    Console.WriteLine("3");
+            //}
+            //else if (szazalek <= 84)
+            //{
+            //    Console.WriteLine("4");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("5");
+            //}
 
 
 
-            Console.ReadKey();
+                Console.ReadKey();
         }
     }
 }
