@@ -227,8 +227,50 @@ namespace feladatsor01
             //}
 
 
+            // 6)	Érdemjegy2 (ertekeles)
 
-                Console.ReadKey();
+            Console.Write("Add meg az érdemjegyet:  ");
+            int jegy = Convert.ToInt32(Console.ReadLine());
+            switch (jegy)
+            {
+                case 1:
+                    Console.WriteLine("elégtelen");
+                    break;
+                case 2:
+                    Console.WriteLine("elégséges");
+                    break;
+                case 3:
+                    Console.WriteLine("közepes");
+                    break;
+                case 4:
+                    Console.WriteLine("jó");
+                    break;
+                case 5:
+                    Console.WriteLine("jeles");
+                    break;
+                default:
+                    Console.WriteLine("Hibás adat!");
+                    break;
+            }
+
+
+            // 7)	Költőpénz (koltopenz)
+
+            Console.WriteLine("Add meg a napi kereseted HUF-ban:  ");
+            int kereset = Convert.ToInt32(Console.ReadLine());
+            if (kereset <= 5000)
+            {
+                Console.WriteLine($"A mai napon megtakarításra: 0 "
+            }
+
+
+
+
+
+
+
+
+            Console.ReadKey();
         }
     }
 }
