@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\balig\\Visual Studio\\C#\\Beadand\u00F3\\beadando\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0156B746-5705-4D3E-98C6-0B9C0EC2CB5A}|beadando\\beadando.csproj|c:\\users\\balig\\visual studio\\c#\\beadand\u00F3\\beadando\\beadando\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0156B746-5705-4D3E-98C6-0B9C0EC2CB5A}|beadando\\beadando.csproj|solutionrelative:beadando\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\balig\\Visual Studio\\C#\\Beadand\u00F3\\beadando\\beadando\\Program.cs",
+              "RelativeDocumentMoniker": "beadando\\Program.cs",
+              "ToolTip": "C:\\Users\\balig\\Visual Studio\\C#\\Beadand\u00F3\\beadando\\beadando\\Program.cs",
+              "RelativeToolTip": "beadando\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKsAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T17:35:13.327Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
