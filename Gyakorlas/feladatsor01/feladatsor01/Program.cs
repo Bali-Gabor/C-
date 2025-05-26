@@ -229,39 +229,84 @@ namespace feladatsor01
 
             // 6)	Érdemjegy2 (ertekeles)
 
-            Console.Write("Add meg az érdemjegyet:  ");
-            int jegy = Convert.ToInt32(Console.ReadLine());
-            switch (jegy)
-            {
-                case 1:
-                    Console.WriteLine("elégtelen");
-                    break;
-                case 2:
-                    Console.WriteLine("elégséges");
-                    break;
-                case 3:
-                    Console.WriteLine("közepes");
-                    break;
-                case 4:
-                    Console.WriteLine("jó");
-                    break;
-                case 5:
-                    Console.WriteLine("jeles");
-                    break;
-                default:
-                    Console.WriteLine("Hibás adat!");
-                    break;
-            }
+            //Console.Write("Add meg az érdemjegyet:  ");
+            //int jegy = Convert.ToInt32(Console.ReadLine());
+            //switch (jegy)
+            //{
+            //    case 1:
+            //        Console.WriteLine("elégtelen");
+            //        break;
+            //    case 2:
+            //        Console.WriteLine("elégséges");
+            //        break;
+            //    case 3:
+            //        Console.WriteLine("közepes");
+            //        break;
+            //    case 4:
+            //        Console.WriteLine("jó");
+            //        break;
+            //    case 5:
+            //        Console.WriteLine("jeles");
+            //        break;
+            //    default:
+            //        Console.WriteLine("Hibás adat!");
+            //        break;
+            //}
 
 
             // 7)	Költőpénz (koltopenz)
 
-            Console.WriteLine("Add meg a napi kereseted HUF-ban:  ");
-            int kereset = Convert.ToInt32(Console.ReadLine());
-            if (kereset <= 5000)
-            {
-                Console.WriteLine($"A mai napon megtakarításra: 0 "
-            }
+            //Console.Write("Add meg a napi kereseted HUF-ban:  ");
+            //int kereset = Convert.ToInt32(Console.ReadLine());
+            //if (kereset <= 5000)
+            //{
+            //    Console.WriteLine($"A mai napon megtakarításra: 0 szórakozásra: {kereset} forintod van.");
+            //}
+            //else
+            //{
+            //    Console.WriteLine($"A mai napon megtakarításra: 5000 forintod, szórakozásra: {kereset - 5000} forintod van.");
+            //}
+
+
+            // 8)	Gyorshajtás bűntetés 2017. (buntetes)
+
+            //Console.Write("Add meg a sebességhatárrt:  ");
+            //int hatar = Convert.ToInt32(Console.ReadLine());
+            //Console.Write("Add meg a jármű sebességét:  ");
+            //int sebesseg = Convert.ToInt32(Console.ReadLine());
+
+
+
+
+
+            // 9)	Személyi szám (szemelyi_szam)
+
+            //Console.Write("Add meg a személyi számod első számjegyét:  ");
+            //int szam = Convert.ToInt32(Console.ReadLine());
+            //switch (szam)
+            //{
+            //    case 1:
+            //        Console.WriteLine("Férfi");
+            //        break;
+            //    case 2:
+            //        Console.WriteLine("Nő");
+            //        break;
+            //    case 3:
+            //        Console.WriteLine("Férfi");
+            //        break;
+            //    case 4:
+            //        Console.WriteLine("Nő");
+            //        break;
+            //    default:
+            //        Console.WriteLine("Hibás adat!");
+            //        break;
+            //}
+
+
+            //10)	Kedvezmény (kedvezmeny)
+
+
+
 
 
 
