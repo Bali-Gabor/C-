@@ -1,0 +1,7 @@
+C:\Users\balig\Visual Studio\C#\Gyakorlas\gyakorlo_fv\obj\Debug\gyakorlo_fv.csproj.AssemblyReference.cache
+C:\Users\balig\Visual Studio\C#\Gyakorlas\gyakorlo_fv\obj\Debug\gyakorlo_fv.csproj.CoreCompileInputs.cache
+C:\Users\balig\Visual Studio\C#\Gyakorlas\gyakorlo_fv\bin\Debug\gyakorlo_fv.exe.config
+C:\Users\balig\Visual Studio\C#\Gyakorlas\gyakorlo_fv\bin\Debug\gyakorlo_fv.exe
+C:\Users\balig\Visual Studio\C#\Gyakorlas\gyakorlo_fv\bin\Debug\gyakorlo_fv.pdb
+C:\Users\balig\Visual Studio\C#\Gyakorlas\gyakorlo_fv\obj\Debug\gyakorlo_fv.exe
+C:\Users\balig\Visual Studio\C#\Gyakorlas\gyakorlo_fv\obj\Debug\gyakorlo_fv.pdb
