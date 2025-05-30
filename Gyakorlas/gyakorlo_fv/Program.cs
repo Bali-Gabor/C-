@@ -10,63 +10,116 @@ namespace gyakorlo_fv
     {
         static void Main(string[] args)
         {
-            // 1. feladat: Osztályzat
+            //1.feladat: Osztályzat
 
-            Console.Write("Add meg a dolgozat értékelésének százalékát:  ");
-            int szazalek = Convert.ToInt32(Console.ReadLine());
+            //Console.Write("Add meg a dolgozat értékelésének százalékát:  ");
+            //int szazalek = Convert.ToInt32(Console.ReadLine());
 
-            string osztalyzat = OsztalyzatVissza(szazalek);
-            Console.WriteLine(osztalyzat);
-
-
-            // 2. feladat: Tanulók aránya
-
-            Console.Write("Add meg az iskola teljes létszámát:  ");
-            double letszam = Convert.ToDouble(Console.ReadLine());
-
-            AranySzamitas(letszam);
+            //string osztalyzat = OsztalyzatVissza(szazalek);
+            //Console.WriteLine(osztalyzat);
 
 
-            // 3. feladat: Tömb
+            //2.feladat: Tanulók aránya
 
-            double[] tortek = new double[20];
+            //Console.Write("Add meg az iskola teljes létszámát:  ");
+            //double letszam = Convert.ToDouble(Console.ReadLine());
 
-            Random rnd = new Random();
-
-            for (int i = 0; i < tortek.Length; i++)
-            {
-                tortek[i] = Math.Round(rnd.Next(10, 30) + rnd.NextDouble(), 2);
-            }
-
-            Kiiratas(tortek);
-
-            int index = MinimumHely(tortek);
-            Console.WriteLine($"\n\nA tömb legkisebb elemének indexe: {index}, értéke: {tortek[index]}");
-
-            Console.Write("\nAdj meg egy értéket 10 és 30 között:  ");
-            double BekertSzam = Convert.ToDouble(Console.ReadLine());
-
-            VaneNagyobb(tortek, BekertSzam);
+            //AranySzamitas(letszam);
 
 
-            // 4. feladat: Lista végjelig
+            //3.feladat: Tömb
 
-            List<int> EgeszSzamok = new List<int>();
+            //double[] tortek = new double[20];
 
-            Feltoltes(EgeszSzamok);
+            //Random rnd = new Random();
 
-            Torles(EgeszSzamok);
+            //for (int i = 0; i < tortek.Length; i++)
+            //{
+            //    tortek[i] = Math.Round(rnd.Next(10, 30) + rnd.NextDouble(), 2);
+            //}
 
-            Kiiratas(EgeszSzamok);
+            //Kiiratas(tortek);
 
-            if (Vane(EgeszSzamok) == true)
-            {
-                Console.WriteLine("Van páros szám az értékek között.");
-            }
-            else
-            {
-                Console.WriteLine("Nincs páros szám az értékek között.");
-            }
+            //int index = MinimumHely(tortek);
+            //Console.WriteLine($"\n\nA tömb legkisebb elemének indexe: {index}, értéke: {tortek[index]}");
+
+            //Console.Write("\nAdj meg egy értéket 10 és 30 között:  ");
+            //double BekertSzam = Convert.ToDouble(Console.ReadLine());
+
+            //VaneNagyobb(tortek, BekertSzam);
+
+
+            //4.feladat: Lista végjelig
+
+            //List<int> EgeszSzamok = new List<int>();
+
+            //Feltoltes(EgeszSzamok);
+
+            //Torles(EgeszSzamok);
+
+            //Kiiratas(EgeszSzamok);
+
+            //if (Vane(EgeszSzamok) == true)
+            //{
+            //    Console.WriteLine("Van páros szám az értékek között.");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Nincs páros szám az értékek között.");
+            //}
+
+
+            // 5.feladat: Tehenek
+
+            //double[] tej = { 11.8, 13.6, 12.7, 10.9, 13.2 };
+
+            //AtlagTejtermeles(tej);
+
+            //Console.WriteLine($"A 12,5 liter tej alatt adó tehenek száma: {KevesTej(tej)}");
+            
+            //int LegkevesebbTej = MinTej(tej);
+            //Console.WriteLine("A legkevesebb tejet adó tehén:");
+
+            //switch ( LegkevesebbTej )
+            //{
+            //    case 0:
+            //        Console.WriteLine($"\tBori\n\t{tej[LegkevesebbTej]}");
+            //        break;
+            //    case 1:
+            //        Console.WriteLine($"\tRozi\n\t{tej[LegkevesebbTej]}");
+            //        break;
+            //    case 2:
+            //        Console.WriteLine($"\tRiska\n\t{tej[LegkevesebbTej]}");
+            //        break;
+            //    case 3:
+            //        Console.WriteLine($"\tMilka\n\t{tej[LegkevesebbTej]}");
+            //        break;
+            //    case 4:
+            //        Console.WriteLine($"\tAranyhaj\n\t{tej[LegkevesebbTej]}");
+            //        break;
+            //}
+
+            //if (VaneTobb(tej))
+            //{
+            //    Console.WriteLine("Van 15 liternél több tejet adó tehén.");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Nincs 15 liternél több tejet adó tehén.");
+            //}
+
+
+            // 6.feladat: TéglatestLista
+
+            List<int> oldalak = new List<int>();
+
+            AdatBeolvasas(oldalak);
+
+            Console.WriteLine($"A téglatest térfogata: {TerfogatSzamitas(oldalak)} cm3");
+
+            Console.WriteLine($"A legnagyobb oldal területe: {LegnagyobbOldalTerulete(oldalak)} cm2");
+
+
         }
 
         static string OsztalyzatVissza(int szam)
@@ -236,5 +289,108 @@ namespace gyakorlo_fv
 
             return van;
         }
+
+        static void AtlagTejtermeles(double[] tomb)
+        {
+            double osszeg = 0;
+
+            for (int i = 0; i < tomb.Length; i++)
+            {
+                osszeg += tomb[i];
+            }
+
+            double atlag = osszeg / tomb.Length;
+            Console.WriteLine($"Az átlag tejtermelés: {atlag:F1} liter");
+        }
+
+        static int KevesTej( double[] tomb)
+        {
+            int darab = 0;
+
+            for (int i = 0; i < tomb.Length; i++)
+            {
+                if (tomb[i] < 12.5)
+                {
+                    darab++;
+                }
+            }
+            return darab;
+        }
+
+        static int MinTej( double[] tomb)
+        {
+            int min = 0;
+
+            for (int i = 1; i < tomb.Length; i++)
+            {
+                if (tomb[i] < tomb[min])
+                {
+                    min = i;
+                }
+            }
+            return min;
+        }
+
+        static bool VaneTobb( double[] tomb)
+        {
+            bool van = false;
+            int i = 0;
+
+            while (i < tomb.Length && tomb[i] < 15)
+            {
+                i++;
+            }
+
+            if (i < tomb.Length)
+            {
+                van = true;
+            }
+
+            return van;
+        }
+
+
+        static void AdatBeolvasas(List<int> lista)
+        {
+            for (int i = 0; i < 3; i++)
+            { 
+                switch (lista.Count)
+                {
+                    case 0: 
+                        Console.Write("Adja meg az 'a' oldal hosszát: ");
+                        lista.Add(Convert.ToInt32(Console.ReadLine()));
+                        break;
+                    case 1:
+                        Console.Write("Adja meg a 'b' oldal hosszát: ");
+                        lista.Add(Convert.ToInt32(Console.ReadLine()));
+                        break;
+                    case 2:
+                        Console.Write("Adja meg a 'c' oldal hosszát: ");
+                        lista.Add(Convert.ToInt32(Console.ReadLine()));
+                        break;
+                }
+            }
+        }
+
+
+        static int TerfogatSzamitas(List<int> lista)
+        {
+            int v = 1;
+
+            for (int i = 0; i < lista.Count; i++)
+            {
+                v =  v * lista[i];
+            }
+
+            return v;
+        }
+
+        static int LegnagyobbOldalTerulete(List<int> lista)
+        {
+            List<int> masolat = new List<int>(lista);
+            masolat.Sort();
+
+            return masolat[1] * masolat[2];
+        } 
     }
 }
