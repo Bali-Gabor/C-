@@ -1,0 +1,10 @@
+C:\Users\balig\Visual Studio\C#\Gyakorlas\vonatjegy\bin\Debug\vonatjegy.exe.config
+C:\Users\balig\Visual Studio\C#\Gyakorlas\vonatjegy\bin\Debug\vonatjegy.exe
+C:\Users\balig\Visual Studio\C#\Gyakorlas\vonatjegy\bin\Debug\vonatjegy.pdb
+C:\Users\balig\Visual Studio\C#\Gyakorlas\vonatjegy\obj\Debug\vonatjegy.csproj.AssemblyReference.cache
+C:\Users\balig\Visual Studio\C#\Gyakorlas\vonatjegy\obj\Debug\vonatjegy.Form1.resources
+C:\Users\balig\Visual Studio\C#\Gyakorlas\vonatjegy\obj\Debug\vonatjegy.Properties.Resources.resources
+C:\Users\balig\Visual Studio\C#\Gyakorlas\vonatjegy\obj\Debug\vonatjegy.csproj.GenerateResource.cache
+C:\Users\balig\Visual Studio\C#\Gyakorlas\vonatjegy\obj\Debug\vonatjegy.csproj.CoreCompileInputs.cache
+C:\Users\balig\Visual Studio\C#\Gyakorlas\vonatjegy\obj\Debug\vonatjegy.exe
+C:\Users\balig\Visual Studio\C#\Gyakorlas\vonatjegy\obj\Debug\vonatjegy.pdb
