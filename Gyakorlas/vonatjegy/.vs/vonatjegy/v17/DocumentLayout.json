@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{295208C5-407E-472F-8B2A-7003AEF4B53C}|vonatjegy.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{295208C5-407E-472F-8B2A-7003AEF4B53C}|vonatjegy.csproj|c:\\users\\balig\\visual studio\\c#\\gyakorlas\\vonatjegy\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{295208C5-407E-472F-8B2A-7003AEF4B53C}|vonatjegy.csproj|C:\\Users\\balig\\Visual Studio\\C#\\Gyakorlas\\vonatjegy\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{295208C5-407E-472F-8B2A-7003AEF4B53C}|vonatjegy.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\balig\\Visual Studio\\C#\\Gyakorlas\\vonatjegy\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAqwEoAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwEoAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-02T07:14:38.923Z",
               "EditorCaption": ""
@@ -42,8 +42,7 @@
               "ToolTip": "C:\\Users\\balig\\Visual Studio\\C#\\Gyakorlas\\vonatjegy\\Form1.cs [Design]",
               "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T07:13:24.273Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-06-02T07:13:24.273Z"
             }
           ]
         }
