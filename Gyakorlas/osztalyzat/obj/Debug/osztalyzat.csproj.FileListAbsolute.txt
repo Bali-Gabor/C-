@@ -1,0 +1,10 @@
+C:\Users\balig\Visual Studio\C#\Gyakorlas\osztalyzat\bin\Debug\osztalyzat.exe.config
+C:\Users\balig\Visual Studio\C#\Gyakorlas\osztalyzat\bin\Debug\osztalyzat.exe
+C:\Users\balig\Visual Studio\C#\Gyakorlas\osztalyzat\bin\Debug\osztalyzat.pdb
+C:\Users\balig\Visual Studio\C#\Gyakorlas\osztalyzat\obj\Debug\osztalyzat.csproj.AssemblyReference.cache
+C:\Users\balig\Visual Studio\C#\Gyakorlas\osztalyzat\obj\Debug\osztalyzat.Form1.resources
+C:\Users\balig\Visual Studio\C#\Gyakorlas\osztalyzat\obj\Debug\osztalyzat.Properties.Resources.resources
+C:\Users\balig\Visual Studio\C#\Gyakorlas\osztalyzat\obj\Debug\osztalyzat.csproj.GenerateResource.cache
+C:\Users\balig\Visual Studio\C#\Gyakorlas\osztalyzat\obj\Debug\osztalyzat.csproj.CoreCompileInputs.cache
+C:\Users\balig\Visual Studio\C#\Gyakorlas\osztalyzat\obj\Debug\osztalyzat.exe
+C:\Users\balig\Visual Studio\C#\Gyakorlas\osztalyzat\obj\Debug\osztalyzat.pdb
