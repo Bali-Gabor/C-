@@ -1,0 +1,10 @@
+C:\Users\balig\Visual Studio\C#\Gyakorlas\koncert\bin\Debug\koncert.exe.config
+C:\Users\balig\Visual Studio\C#\Gyakorlas\koncert\bin\Debug\koncert.exe
+C:\Users\balig\Visual Studio\C#\Gyakorlas\koncert\bin\Debug\koncert.pdb
+C:\Users\balig\Visual Studio\C#\Gyakorlas\koncert\obj\Debug\koncert.csproj.AssemblyReference.cache
+C:\Users\balig\Visual Studio\C#\Gyakorlas\koncert\obj\Debug\koncert.Form1.resources
+C:\Users\balig\Visual Studio\C#\Gyakorlas\koncert\obj\Debug\koncert.Properties.Resources.resources
+C:\Users\balig\Visual Studio\C#\Gyakorlas\koncert\obj\Debug\koncert.csproj.GenerateResource.cache
+C:\Users\balig\Visual Studio\C#\Gyakorlas\koncert\obj\Debug\koncert.csproj.CoreCompileInputs.cache
+C:\Users\balig\Visual Studio\C#\Gyakorlas\koncert\obj\Debug\koncert.exe
+C:\Users\balig\Visual Studio\C#\Gyakorlas\koncert\obj\Debug\koncert.pdb
