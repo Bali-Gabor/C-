@@ -46,7 +46,7 @@ namespace koncert
                     ulohely_darab = 2;
                     break;
                 case 3:
-                    allohely_darab = 3;
+                    ulohely_darab = 3;
                     break;
                 case 4:
                     ulohely_darab = 4;
@@ -94,6 +94,8 @@ namespace koncert
            
         }
 
+           
+
         private void radioButton1_CheckedChanged(object sender, EventArgs e)
         {
             szamol();
@@ -122,6 +124,28 @@ namespace koncert
         private void comboBox2_SelectedIndexChanged(object sender, EventArgs e)
         {
             szamol();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            DialogResult valasz = MessageBox.Show("Biztosan kilép a programból?", "Kilépés", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+            if (valasz == DialogResult.Yes)
+            {
+                Close();
+            }
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            radioButton1.Checked = false;
+            radioButton2.Checked = false;
+            radioButton3.Checked = false;
+            radioButton4.Checked = false;
+
+            comboBox1.SelectedIndex = 0;
+            comboBox2.SelectedIndex = 0;
+
+            label2.Text = "Fizetendő: 0 Forint";
         }
     }
 }
