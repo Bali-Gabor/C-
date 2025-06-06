@@ -1,0 +1,10 @@
+C:\Users\balig\Visual Studio\C#\Gyakorlas\ko_papir_ollo\bin\Debug\ko_papir_ollo.exe.config
+C:\Users\balig\Visual Studio\C#\Gyakorlas\ko_papir_ollo\bin\Debug\ko_papir_ollo.exe
+C:\Users\balig\Visual Studio\C#\Gyakorlas\ko_papir_ollo\bin\Debug\ko_papir_ollo.pdb
+C:\Users\balig\Visual Studio\C#\Gyakorlas\ko_papir_ollo\obj\Debug\ko_papir_ollo.csproj.AssemblyReference.cache
+C:\Users\balig\Visual Studio\C#\Gyakorlas\ko_papir_ollo\obj\Debug\ko_papir_ollo.Form1.resources
+C:\Users\balig\Visual Studio\C#\Gyakorlas\ko_papir_ollo\obj\Debug\ko_papir_ollo.Properties.Resources.resources
+C:\Users\balig\Visual Studio\C#\Gyakorlas\ko_papir_ollo\obj\Debug\ko_papir_ollo.csproj.GenerateResource.cache
+C:\Users\balig\Visual Studio\C#\Gyakorlas\ko_papir_ollo\obj\Debug\ko_papir_ollo.csproj.CoreCompileInputs.cache
+C:\Users\balig\Visual Studio\C#\Gyakorlas\ko_papir_ollo\obj\Debug\ko_papir_ollo.exe
+C:\Users\balig\Visual Studio\C#\Gyakorlas\ko_papir_ollo\obj\Debug\ko_papir_ollo.pdb
