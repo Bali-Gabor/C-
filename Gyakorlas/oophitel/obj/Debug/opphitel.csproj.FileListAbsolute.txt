@@ -1,0 +1,7 @@
+C:\Users\balig\Visual Studio\C#\Gyakorlas\opphitel\bin\Debug\opphitel.exe.config
+C:\Users\balig\Visual Studio\C#\Gyakorlas\opphitel\bin\Debug\opphitel.exe
+C:\Users\balig\Visual Studio\C#\Gyakorlas\opphitel\bin\Debug\opphitel.pdb
+C:\Users\balig\Visual Studio\C#\Gyakorlas\opphitel\obj\Debug\opphitel.csproj.AssemblyReference.cache
+C:\Users\balig\Visual Studio\C#\Gyakorlas\opphitel\obj\Debug\opphitel.csproj.CoreCompileInputs.cache
+C:\Users\balig\Visual Studio\C#\Gyakorlas\opphitel\obj\Debug\opphitel.exe
+C:\Users\balig\Visual Studio\C#\Gyakorlas\opphitel\obj\Debug\opphitel.pdb
