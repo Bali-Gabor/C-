@@ -1,0 +1,7 @@
+C:\Users\balig\Visual Studio\C#\Gyakorlas\cicukaoop\bin\Debug\cicukaoop.exe.config
+C:\Users\balig\Visual Studio\C#\Gyakorlas\cicukaoop\bin\Debug\cicukaoop.exe
+C:\Users\balig\Visual Studio\C#\Gyakorlas\cicukaoop\bin\Debug\cicukaoop.pdb
+C:\Users\balig\Visual Studio\C#\Gyakorlas\cicukaoop\obj\Debug\cicukaoop.csproj.AssemblyReference.cache
+C:\Users\balig\Visual Studio\C#\Gyakorlas\cicukaoop\obj\Debug\cicukaoop.csproj.CoreCompileInputs.cache
+C:\Users\balig\Visual Studio\C#\Gyakorlas\cicukaoop\obj\Debug\cicukaoop.exe
+C:\Users\balig\Visual Studio\C#\Gyakorlas\cicukaoop\obj\Debug\cicukaoop.pdb
