@@ -1,0 +1,14 @@
+C:\Users\bali.gabor\source\repos\oopbevlista\bin\Debug\oopbevlista.exe.config
+C:\Users\bali.gabor\source\repos\oopbevlista\bin\Debug\oopbevlista.exe
+C:\Users\bali.gabor\source\repos\oopbevlista\bin\Debug\oopbevlista.pdb
+C:\Users\bali.gabor\source\repos\oopbevlista\obj\Debug\oopbevlista.csproj.AssemblyReference.cache
+C:\Users\bali.gabor\source\repos\oopbevlista\obj\Debug\oopbevlista.csproj.CoreCompileInputs.cache
+C:\Users\bali.gabor\source\repos\oopbevlista\obj\Debug\oopbevlista.exe
+C:\Users\bali.gabor\source\repos\oopbevlista\obj\Debug\oopbevlista.pdb
+C:\Users\balig\Visual Studio\C#\Gyakorlas\bevlista\oopbevlista\bin\Debug\oopbevlista.exe.config
+C:\Users\balig\Visual Studio\C#\Gyakorlas\bevlista\oopbevlista\bin\Debug\oopbevlista.exe
+C:\Users\balig\Visual Studio\C#\Gyakorlas\bevlista\oopbevlista\bin\Debug\oopbevlista.pdb
+C:\Users\balig\Visual Studio\C#\Gyakorlas\bevlista\oopbevlista\obj\Debug\oopbevlista.csproj.AssemblyReference.cache
+C:\Users\balig\Visual Studio\C#\Gyakorlas\bevlista\oopbevlista\obj\Debug\oopbevlista.csproj.CoreCompileInputs.cache
+C:\Users\balig\Visual Studio\C#\Gyakorlas\bevlista\oopbevlista\obj\Debug\oopbevlista.exe
+C:\Users\balig\Visual Studio\C#\Gyakorlas\bevlista\oopbevlista\obj\Debug\oopbevlista.pdb

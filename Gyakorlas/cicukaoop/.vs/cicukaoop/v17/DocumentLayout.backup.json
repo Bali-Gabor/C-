@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\balig\\Visual Studio\\C#\\Gyakorlas\\cicukaoop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6DDEC995-B6A7-49E6-ABB8-F558413BE08E}|cicukaoop.csproj|c:\\users\\balig\\visual studio\\c#\\gyakorlas\\cicukaoop\\macska.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DDEC995-B6A7-49E6-ABB8-F558413BE08E}|cicukaoop.csproj|solutionrelative:macska.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6DDEC995-B6A7-49E6-ABB8-F558413BE08E}|cicukaoop.csproj|C:\\Users\\balig\\Visual Studio\\C#\\Gyakorlas\\cicukaoop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DDEC995-B6A7-49E6-ABB8-F558413BE08E}|cicukaoop.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DDEC995-B6A7-49E6-ABB8-F558413BE08E}|cicukaoop.csproj|c:\\users\\balig\\visual studio\\c#\\gyakorlas\\cicukaoop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DDEC995-B6A7-49E6-ABB8-F558413BE08E}|cicukaoop.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6DDEC995-B6A7-49E6-ABB8-F558413BE08E}|cicukaoop.csproj|c:\\users\\balig\\visual studio\\c#\\gyakorlas\\cicukaoop\\macska.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DDEC995-B6A7-49E6-ABB8-F558413BE08E}|cicukaoop.csproj|solutionrelative:macska.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,24 +18,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Macska.cs",
               "DocumentMoniker": "C:\\Users\\balig\\Visual Studio\\C#\\Gyakorlas\\cicukaoop\\Macska.cs",
               "RelativeDocumentMoniker": "Macska.cs",
               "ToolTip": "C:\\Users\\balig\\Visual Studio\\C#\\Gyakorlas\\cicukaoop\\Macska.cs",
               "RelativeToolTip": "Macska.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAuwD0AAABPAAAAAAAAAA==",
+              "ViewState": "AgIAACwAAAAAAAAAAAAswD0AAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-05T16:52:14.708Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\balig\\Visual Studio\\C#\\Gyakorlas\\cicukaoop\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
