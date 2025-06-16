@@ -1,0 +1,7 @@
+C:\Users\balig\Visual Studio\C#\Gyakorlas\tanulok_oopalapok\bin\Debug\tanulok_oopalapok.exe.config
+C:\Users\balig\Visual Studio\C#\Gyakorlas\tanulok_oopalapok\bin\Debug\tanulok_oopalapok.exe
+C:\Users\balig\Visual Studio\C#\Gyakorlas\tanulok_oopalapok\bin\Debug\tanulok_oopalapok.pdb
+C:\Users\balig\Visual Studio\C#\Gyakorlas\tanulok_oopalapok\obj\Debug\tanulok_oopalapok.csproj.AssemblyReference.cache
+C:\Users\balig\Visual Studio\C#\Gyakorlas\tanulok_oopalapok\obj\Debug\tanulok_oopalapok.csproj.CoreCompileInputs.cache
+C:\Users\balig\Visual Studio\C#\Gyakorlas\tanulok_oopalapok\obj\Debug\tanulok_oopalapok.exe
+C:\Users\balig\Visual Studio\C#\Gyakorlas\tanulok_oopalapok\obj\Debug\tanulok_oopalapok.pdb
