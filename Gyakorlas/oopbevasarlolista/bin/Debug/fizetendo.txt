@@ -1,0 +1,11 @@
+kenyér;651,200012207031 Ft
+tej;945 Ft
+fagyasztott kukorica;725 Ft
+majonéz;584 Ft
+kifli;660 Ft
+paradicsom;999,799987792969 Ft
+banán;487 Ft
+kávé;1299,09997558594 Ft
+kesztyű;2200 Ft
+zsömle;282 Ft
+Végösszeg: 8833,10 Ft

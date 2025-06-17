@@ -1,0 +1,7 @@
+C:\Users\balig\Visual Studio\C#\Gyakorlas\oopbevasarlolista\obj\Debug\oopbevasarlolista.csproj.AssemblyReference.cache
+C:\Users\balig\Visual Studio\C#\Gyakorlas\oopbevasarlolista\obj\Debug\oopbevasarlolista.csproj.CoreCompileInputs.cache
+C:\Users\balig\Visual Studio\C#\Gyakorlas\oopbevasarlolista\bin\Debug\oopbevasarlolista.exe.config
+C:\Users\balig\Visual Studio\C#\Gyakorlas\oopbevasarlolista\bin\Debug\oopbevasarlolista.exe
+C:\Users\balig\Visual Studio\C#\Gyakorlas\oopbevasarlolista\bin\Debug\oopbevasarlolista.pdb
+C:\Users\balig\Visual Studio\C#\Gyakorlas\oopbevasarlolista\obj\Debug\oopbevasarlolista.exe
+C:\Users\balig\Visual Studio\C#\Gyakorlas\oopbevasarlolista\obj\Debug\oopbevasarlolista.pdb
