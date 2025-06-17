@@ -1,0 +1,7 @@
+C:\Users\balig\Visual Studio\C#\Gyakorlas\termekek\bin\Debug\termekek.exe.config
+C:\Users\balig\Visual Studio\C#\Gyakorlas\termekek\bin\Debug\termekek.exe
+C:\Users\balig\Visual Studio\C#\Gyakorlas\termekek\bin\Debug\termekek.pdb
+C:\Users\balig\Visual Studio\C#\Gyakorlas\termekek\obj\Debug\termekek.csproj.AssemblyReference.cache
+C:\Users\balig\Visual Studio\C#\Gyakorlas\termekek\obj\Debug\termekek.csproj.CoreCompileInputs.cache
+C:\Users\balig\Visual Studio\C#\Gyakorlas\termekek\obj\Debug\termekek.exe
+C:\Users\balig\Visual Studio\C#\Gyakorlas\termekek\obj\Debug\termekek.pdb
