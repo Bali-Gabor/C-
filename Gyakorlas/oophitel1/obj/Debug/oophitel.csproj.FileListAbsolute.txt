@@ -1,0 +1,7 @@
+C:\Users\balig\Visual Studio\C#\Gyakorlas\oophitel\bin\Debug\oophitel.exe.config
+C:\Users\balig\Visual Studio\C#\Gyakorlas\oophitel\bin\Debug\oophitel.exe
+C:\Users\balig\Visual Studio\C#\Gyakorlas\oophitel\bin\Debug\oophitel.pdb
+C:\Users\balig\Visual Studio\C#\Gyakorlas\oophitel\obj\Debug\oophitel.csproj.AssemblyReference.cache
+C:\Users\balig\Visual Studio\C#\Gyakorlas\oophitel\obj\Debug\oophitel.csproj.CoreCompileInputs.cache
+C:\Users\balig\Visual Studio\C#\Gyakorlas\oophitel\obj\Debug\oophitel.exe
+C:\Users\balig\Visual Studio\C#\Gyakorlas\oophitel\obj\Debug\oophitel.pdb
