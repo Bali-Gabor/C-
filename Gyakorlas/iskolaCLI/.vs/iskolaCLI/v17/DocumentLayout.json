@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\balig\\Visual Studio\\C#\\Gyakorlas\\iskolaCLI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F98D0502-E44A-4D1B-BB77-E1AF27BA95C2}|iskolaCLI.csproj|c:\\users\\balig\\visual studio\\c#\\gyakorlas\\iskolacli\\tanulok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F98D0502-E44A-4D1B-BB77-E1AF27BA95C2}|iskolaCLI.csproj|solutionrelative:tanulok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F98D0502-E44A-4D1B-BB77-E1AF27BA95C2}|iskolaCLI.csproj|c:\\users\\balig\\visual studio\\c#\\gyakorlas\\iskolacli\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F98D0502-E44A-4D1B-BB77-E1AF27BA95C2}|iskolaCLI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tanulok.cs",
+              "DocumentMoniker": "C:\\Users\\balig\\Visual Studio\\C#\\Gyakorlas\\iskolaCLI\\Tanulok.cs",
+              "RelativeDocumentMoniker": "Tanulok.cs",
+              "ToolTip": "C:\\Users\\balig\\Visual Studio\\C#\\Gyakorlas\\iskolaCLI\\Tanulok.cs",
+              "RelativeToolTip": "Tanulok.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T08:57:13.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\balig\\Visual Studio\\C#\\Gyakorlas\\iskolaCLI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\balig\\Visual Studio\\C#\\Gyakorlas\\iskolaCLI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T08:56:36.002Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

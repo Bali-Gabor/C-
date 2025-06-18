@@ -1,0 +1,7 @@
+C:\Users\balig\Visual Studio\C#\Gyakorlas\iskolaCLI\bin\Debug\iskolaCLI.exe.config
+C:\Users\balig\Visual Studio\C#\Gyakorlas\iskolaCLI\bin\Debug\iskolaCLI.exe
+C:\Users\balig\Visual Studio\C#\Gyakorlas\iskolaCLI\bin\Debug\iskolaCLI.pdb
+C:\Users\balig\Visual Studio\C#\Gyakorlas\iskolaCLI\obj\Debug\iskolaCLI.csproj.AssemblyReference.cache
+C:\Users\balig\Visual Studio\C#\Gyakorlas\iskolaCLI\obj\Debug\iskolaCLI.csproj.CoreCompileInputs.cache
+C:\Users\balig\Visual Studio\C#\Gyakorlas\iskolaCLI\obj\Debug\iskolaCLI.exe
+C:\Users\balig\Visual Studio\C#\Gyakorlas\iskolaCLI\obj\Debug\iskolaCLI.pdb
