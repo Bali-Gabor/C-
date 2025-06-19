@@ -1,0 +1,10 @@
+1;Kiss Péter;17;11.A;4,2
+2;Nagy Anna;16;10.B;4,8
+3;Szabó Gábor;18;12.A;3,9
+4;Tóth Eszter;17;11.B;4,5
+5;Farkas Máté;15;9.A;3,6
+6;Varga Júlia;16;11.A;4,7
+7;Kovács Levente;17;11.C;4,1
+8;Balogh Réka;18;12.B;5,0
+9;Lakatos Dániel;15;9.B;3,8
+10;Simon Enikő;16;10.C;4,3
