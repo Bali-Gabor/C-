@@ -1,0 +1,7 @@
+C:\Users\balig\Visual Studio\C#\Gyakorlas\szegedCLI\bin\Debug\szegedCLI.exe.config
+C:\Users\balig\Visual Studio\C#\Gyakorlas\szegedCLI\bin\Debug\szegedCLI.exe
+C:\Users\balig\Visual Studio\C#\Gyakorlas\szegedCLI\bin\Debug\szegedCLI.pdb
+C:\Users\balig\Visual Studio\C#\Gyakorlas\szegedCLI\obj\Debug\szegedCLI.csproj.AssemblyReference.cache
+C:\Users\balig\Visual Studio\C#\Gyakorlas\szegedCLI\obj\Debug\szegedCLI.csproj.CoreCompileInputs.cache
+C:\Users\balig\Visual Studio\C#\Gyakorlas\szegedCLI\obj\Debug\szegedCLI.exe
+C:\Users\balig\Visual Studio\C#\Gyakorlas\szegedCLI\obj\Debug\szegedCLI.pdb
