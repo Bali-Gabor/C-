@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\balig\\Visual Studio\\C#\\Gyakorlas\\filmekGUI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{033274A1-239B-4777-976A-24A44B36570B}|filmekGUI.csproj|C:\\Users\\balig\\Visual Studio\\C#\\Gyakorlas\\filmekGUI\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{033274A1-239B-4777-976A-24A44B36570B}|filmekGUI.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{033274A1-239B-4777-976A-24A44B36570B}|filmekGUI.csproj|c:\\users\\balig\\visual studio\\c#\\gyakorlas\\filmekgui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{033274A1-239B-4777-976A-24A44B36570B}|filmekGUI.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{033274A1-239B-4777-976A-24A44B36570B}|filmekGUI.csproj|C:\\Users\\balig\\Visual Studio\\C#\\Gyakorlas\\filmekGUI\\filmek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{033274A1-239B-4777-976A-24A44B36570B}|filmekGUI.csproj|solutionrelative:filmek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\balig\\Visual Studio\\C#\\Gyakorlas\\filmekGUI\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\balig\\Visual Studio\\C#\\Gyakorlas\\filmekGUI\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAwFoAAAB3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T10:37:23.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Filmek.cs",
+              "DocumentMoniker": "C:\\Users\\balig\\Visual Studio\\C#\\Gyakorlas\\filmekGUI\\Filmek.cs",
+              "RelativeDocumentMoniker": "Filmek.cs",
+              "ToolTip": "C:\\Users\\balig\\Visual Studio\\C#\\Gyakorlas\\filmekGUI\\Filmek.cs",
+              "RelativeToolTip": "Filmek.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAswCMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T10:25:59.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\balig\\Visual Studio\\C#\\Gyakorlas\\filmekGUI\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\balig\\Visual Studio\\C#\\Gyakorlas\\filmekGUI\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T10:18:51.628Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

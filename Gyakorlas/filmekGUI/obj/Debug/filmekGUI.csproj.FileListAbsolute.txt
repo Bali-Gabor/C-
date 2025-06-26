@@ -1,0 +1,10 @@
+C:\Users\balig\Visual Studio\C#\Gyakorlas\filmekGUI\bin\Debug\filmekGUI.exe.config
+C:\Users\balig\Visual Studio\C#\Gyakorlas\filmekGUI\bin\Debug\filmekGUI.exe
+C:\Users\balig\Visual Studio\C#\Gyakorlas\filmekGUI\bin\Debug\filmekGUI.pdb
+C:\Users\balig\Visual Studio\C#\Gyakorlas\filmekGUI\obj\Debug\filmekGUI.csproj.AssemblyReference.cache
+C:\Users\balig\Visual Studio\C#\Gyakorlas\filmekGUI\obj\Debug\filmekGUI.Form1.resources
+C:\Users\balig\Visual Studio\C#\Gyakorlas\filmekGUI\obj\Debug\filmekGUI.Properties.Resources.resources
+C:\Users\balig\Visual Studio\C#\Gyakorlas\filmekGUI\obj\Debug\filmekGUI.csproj.GenerateResource.cache
+C:\Users\balig\Visual Studio\C#\Gyakorlas\filmekGUI\obj\Debug\filmekGUI.csproj.CoreCompileInputs.cache
+C:\Users\balig\Visual Studio\C#\Gyakorlas\filmekGUI\obj\Debug\filmekGUI.exe
+C:\Users\balig\Visual Studio\C#\Gyakorlas\filmekGUI\obj\Debug\filmekGUI.pdb
