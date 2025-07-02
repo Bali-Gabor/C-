@@ -1,0 +1,28 @@
+5991811438128;Légy jó mindhalálig - Alföldi Róbert előadásában;2021;h;Mg Records;686
+9786155385674;Egri csillagok;2014;n;Manó Könyvek;272
+9786156797421;Rokonok;2024;e;Efficenter Kft.;326
+9786156797438;Úri muri;2024;e;Efficenter Kft.;259
+9786156797735;Csongor és Tünde;2024;e;Efficenter Kft.;115
+9789630996280;Párkapcsolat;2021;h;Mojzer Kiadó;132
+9789631199864;Légy jó mindhalálig;2013;n;Móra;312
+9789632520292;Úri muri;2006;n;Akkord Kiadó;259
+9789632520728;Rokonok;2013;n;Akkord Kiadó;326
+9789632521664;Bánk Bán;2021;n;Akkord Kiadó;160
+9789632764122;Csongor és Tünde - Válogatott versek;2020;n;Osiris Kiadó;272
+9789633559215;Anne Frank naplója;2022;h;Park Hangoskönyvek;710
+9789634058014;1984;2017;e;Európa Könyvkiadó;360
+9789634150466;Öreg magyarok - Válogatott novellák;2016;n;Móra;175
+9789634794394;1984;2021;h;Helikon Kiadó;411
+9789634860341;Sürgés-forgás Tesz-Vesz városban;2023;n;Móra;96
+9789634866725;Zsellérek;2024;n;Móra;351
+9789634867579;Öreg magyarok;2021;e;Móra;175
+9789634867760;Vuk;2025;n;Móra;117
+9789634867777;Tüskevár;2024;n;Móra;354
+9789634868767;Kele;2022;n;Móra;266
+9789634868774;Téli berek;2021;n;Móra;400
+9789634869955;Lutra - Egy vidra regénye;2022;n;Móra;336
+9789635873937;Mese a vakondról, aki tudni akarta, hogy ki csinált a fejére;2023;n;Pagony Kiadó;24
+9789636031862;Öreg magyarok;2022;h;Móra;367
+9789636202576;Állatfarm;2025;n;Helikon Kiadó;119
+9789637296239;Magyarország történeti földrajza - II. kötet;2008;n;Ludovika Egyetemi Kiadó;436
+9789639310513;Magyarország történeti földrajza - I. kötet;2005;n;Ludovika Egyetemi Kiadó;462

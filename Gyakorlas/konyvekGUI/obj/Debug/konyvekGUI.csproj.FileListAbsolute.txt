@@ -1,0 +1,10 @@
+C:\Users\balig\Visual Studio\C#\Gyakorlas\konyvekGUI\bin\Debug\konyvekGUI.exe.config
+C:\Users\balig\Visual Studio\C#\Gyakorlas\konyvekGUI\bin\Debug\konyvekGUI.exe
+C:\Users\balig\Visual Studio\C#\Gyakorlas\konyvekGUI\bin\Debug\konyvekGUI.pdb
+C:\Users\balig\Visual Studio\C#\Gyakorlas\konyvekGUI\obj\Debug\konyvekGUI.csproj.AssemblyReference.cache
+C:\Users\balig\Visual Studio\C#\Gyakorlas\konyvekGUI\obj\Debug\konyvekGUI.Form1.resources
+C:\Users\balig\Visual Studio\C#\Gyakorlas\konyvekGUI\obj\Debug\konyvekGUI.Properties.Resources.resources
+C:\Users\balig\Visual Studio\C#\Gyakorlas\konyvekGUI\obj\Debug\konyvekGUI.csproj.GenerateResource.cache
+C:\Users\balig\Visual Studio\C#\Gyakorlas\konyvekGUI\obj\Debug\konyvekGUI.csproj.CoreCompileInputs.cache
+C:\Users\balig\Visual Studio\C#\Gyakorlas\konyvekGUI\obj\Debug\konyvekGUI.exe
+C:\Users\balig\Visual Studio\C#\Gyakorlas\konyvekGUI\obj\Debug\konyvekGUI.pdb
