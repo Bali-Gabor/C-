@@ -1,0 +1,13 @@
+C:\Users\balig\Visual Studio\C#\Gyakorlas\szamkiraly\bin\Debug\szamkiraly.exe.config
+C:\Users\balig\Visual Studio\C#\Gyakorlas\szamkiraly\bin\Debug\szamkiraly.exe
+C:\Users\balig\Visual Studio\C#\Gyakorlas\szamkiraly\bin\Debug\szamkiraly.pdb
+C:\Users\balig\Visual Studio\C#\Gyakorlas\szamkiraly\bin\Debug\hu-HU\szamkiraly.resources.dll
+C:\Users\balig\Visual Studio\C#\Gyakorlas\szamkiraly\obj\Debug\szamkiraly.csproj.AssemblyReference.cache
+C:\Users\balig\Visual Studio\C#\Gyakorlas\szamkiraly\obj\Debug\szamkiraly.Form1.resources
+C:\Users\balig\Visual Studio\C#\Gyakorlas\szamkiraly\obj\Debug\szamkiraly.Properties.Resources.resources
+C:\Users\balig\Visual Studio\C#\Gyakorlas\szamkiraly\obj\Debug\szamkiraly.Form1.hu-HU.resources
+C:\Users\balig\Visual Studio\C#\Gyakorlas\szamkiraly\obj\Debug\szamkiraly.csproj.GenerateResource.cache
+C:\Users\balig\Visual Studio\C#\Gyakorlas\szamkiraly\obj\Debug\szamkiraly.csproj.CoreCompileInputs.cache
+C:\Users\balig\Visual Studio\C#\Gyakorlas\szamkiraly\obj\Debug\hu-HU\szamkiraly.resources.dll
+C:\Users\balig\Visual Studio\C#\Gyakorlas\szamkiraly\obj\Debug\szamkiraly.exe
+C:\Users\balig\Visual Studio\C#\Gyakorlas\szamkiraly\obj\Debug\szamkiraly.pdb
