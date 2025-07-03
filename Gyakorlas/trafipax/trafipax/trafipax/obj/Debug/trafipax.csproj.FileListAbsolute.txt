@@ -1,0 +1,34 @@
+C:\Users\bali.gabor\source\repos\trafipax\trafipax\bin\Debug\trafipax.exe.config
+C:\Users\bali.gabor\source\repos\trafipax\trafipax\bin\Debug\trafipax.exe
+C:\Users\bali.gabor\source\repos\trafipax\trafipax\bin\Debug\trafipax.pdb
+C:\Users\bali.gabor\source\repos\trafipax\trafipax\obj\Debug\trafipax.csproj.AssemblyReference.cache
+C:\Users\bali.gabor\source\repos\trafipax\trafipax\obj\Debug\trafipax.Properties.Resources.resources
+C:\Users\bali.gabor\source\repos\trafipax\trafipax\obj\Debug\trafipax.csproj.GenerateResource.cache
+C:\Users\bali.gabor\source\repos\trafipax\trafipax\obj\Debug\trafipax.csproj.CoreCompileInputs.cache
+C:\Users\bali.gabor\source\repos\trafipax\trafipax\obj\Debug\trafipax.exe
+C:\Users\bali.gabor\source\repos\trafipax\trafipax\obj\Debug\trafipax.pdb
+C:\Users\bali.gabor\source\repos\trafipax\trafipax\obj\Debug\trafipax.FormFomenu.resources
+C:\Users\bali.gabor\source\repos\trafipax\trafipax\obj\Debug\trafipax.FormRogzites.resources
+C:\Users\bali.gabor\Desktop\trafipax\trafipax\trafipax\bin\Debug\trafipax.exe.config
+C:\Users\bali.gabor\Desktop\trafipax\trafipax\trafipax\bin\Debug\trafipax.exe
+C:\Users\bali.gabor\Desktop\trafipax\trafipax\trafipax\bin\Debug\trafipax.pdb
+C:\Users\bali.gabor\Desktop\trafipax\trafipax\trafipax\obj\Debug\trafipax.csproj.AssemblyReference.cache
+C:\Users\bali.gabor\Desktop\trafipax\trafipax\trafipax\obj\Debug\trafipax.FormFomenu.resources
+C:\Users\bali.gabor\Desktop\trafipax\trafipax\trafipax\obj\Debug\trafipax.FormRogzites.resources
+C:\Users\bali.gabor\Desktop\trafipax\trafipax\trafipax\obj\Debug\trafipax.Properties.Resources.resources
+C:\Users\bali.gabor\Desktop\trafipax\trafipax\trafipax\obj\Debug\trafipax.csproj.GenerateResource.cache
+C:\Users\bali.gabor\Desktop\trafipax\trafipax\trafipax\obj\Debug\trafipax.csproj.CoreCompileInputs.cache
+C:\Users\bali.gabor\Desktop\trafipax\trafipax\trafipax\obj\Debug\trafipax.exe
+C:\Users\bali.gabor\Desktop\trafipax\trafipax\trafipax\obj\Debug\trafipax.pdb
+C:\Users\balig\Visual Studio\C#\Gyakorlas\trafipax\trafipax\trafipax\bin\Debug\trafipax.exe.config
+C:\Users\balig\Visual Studio\C#\Gyakorlas\trafipax\trafipax\trafipax\bin\Debug\trafipax.exe
+C:\Users\balig\Visual Studio\C#\Gyakorlas\trafipax\trafipax\trafipax\bin\Debug\trafipax.pdb
+C:\Users\balig\Visual Studio\C#\Gyakorlas\trafipax\trafipax\trafipax\obj\Debug\trafipax.csproj.AssemblyReference.cache
+C:\Users\balig\Visual Studio\C#\Gyakorlas\trafipax\trafipax\trafipax\obj\Debug\trafipax.FormFomenu.resources
+C:\Users\balig\Visual Studio\C#\Gyakorlas\trafipax\trafipax\trafipax\obj\Debug\trafipax.FormRogzites.resources
+C:\Users\balig\Visual Studio\C#\Gyakorlas\trafipax\trafipax\trafipax\obj\Debug\trafipax.Properties.Resources.resources
+C:\Users\balig\Visual Studio\C#\Gyakorlas\trafipax\trafipax\trafipax\obj\Debug\trafipax.csproj.GenerateResource.cache
+C:\Users\balig\Visual Studio\C#\Gyakorlas\trafipax\trafipax\trafipax\obj\Debug\trafipax.csproj.CoreCompileInputs.cache
+C:\Users\balig\Visual Studio\C#\Gyakorlas\trafipax\trafipax\trafipax\obj\Debug\trafipax.exe
+C:\Users\balig\Visual Studio\C#\Gyakorlas\trafipax\trafipax\trafipax\obj\Debug\trafipax.pdb
+C:\Users\balig\Visual Studio\C#\Gyakorlas\trafipax\trafipax\trafipax\obj\Debug\trafipax.FormStatisztika.resources

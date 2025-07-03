@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\balig\\Visual Studio\\C#\\Gyakorlas\\trafipax\\trafipax\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E9BD085-FFA9-4368-AE3A-18AAA17FDE80}|trafipax\\trafipax.csproj|c:\\users\\balig\\visual studio\\c#\\gyakorlas\\trafipax\\trafipax\\trafipax\\formstatisztika.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E9BD085-FFA9-4368-AE3A-18AAA17FDE80}|trafipax\\trafipax.csproj|solutionrelative:trafipax\\formstatisztika.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E9BD085-FFA9-4368-AE3A-18AAA17FDE80}|trafipax\\trafipax.csproj|c:\\users\\balig\\visual studio\\c#\\gyakorlas\\trafipax\\trafipax\\trafipax\\formstatisztika.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0E9BD085-FFA9-4368-AE3A-18AAA17FDE80}|trafipax\\trafipax.csproj|solutionrelative:trafipax\\formstatisztika.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E9BD085-FFA9-4368-AE3A-18AAA17FDE80}|trafipax\\trafipax.csproj|C:\\Users\\balig\\Visual Studio\\C#\\Gyakorlas\\trafipax\\trafipax\\trafipax\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0E9BD085-FFA9-4368-AE3A-18AAA17FDE80}|trafipax\\trafipax.csproj|solutionrelative:trafipax\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E9BD085-FFA9-4368-AE3A-18AAA17FDE80}|trafipax\\trafipax.csproj|c:\\users\\balig\\visual studio\\c#\\gyakorlas\\trafipax\\trafipax\\trafipax\\formrogzites.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E9BD085-FFA9-4368-AE3A-18AAA17FDE80}|trafipax\\trafipax.csproj|solutionrelative:trafipax\\formrogzites.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E9BD085-FFA9-4368-AE3A-18AAA17FDE80}|trafipax\\trafipax.csproj|C:\\Users\\balig\\Visual Studio\\C#\\Gyakorlas\\trafipax\\trafipax\\trafipax\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E9BD085-FFA9-4368-AE3A-18AAA17FDE80}|trafipax\\trafipax.csproj|solutionrelative:trafipax\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E9BD085-FFA9-4368-AE3A-18AAA17FDE80}|trafipax\\trafipax.csproj|C:\\Users\\balig\\Visual Studio\\C#\\Gyakorlas\\trafipax\\trafipax\\trafipax\\formrogzites.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0E9BD085-FFA9-4368-AE3A-18AAA17FDE80}|trafipax\\trafipax.csproj|solutionrelative:trafipax\\formrogzites.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E9BD085-FFA9-4368-AE3A-18AAA17FDE80}|trafipax\\trafipax.csproj|c:\\users\\balig\\visual studio\\c#\\gyakorlas\\trafipax\\trafipax\\trafipax\\meresek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E9BD085-FFA9-4368-AE3A-18AAA17FDE80}|trafipax\\trafipax.csproj|solutionrelative:trafipax\\meresek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormStatisztika.cs",
+              "DocumentMoniker": "C:\\Users\\balig\\Visual Studio\\C#\\Gyakorlas\\trafipax\\trafipax\\trafipax\\FormStatisztika.cs",
+              "RelativeDocumentMoniker": "trafipax\\FormStatisztika.cs",
+              "ToolTip": "C:\\Users\\balig\\Visual Studio\\C#\\Gyakorlas\\trafipax\\trafipax\\trafipax\\FormStatisztika.cs*",
+              "RelativeToolTip": "trafipax\\FormStatisztika.cs*",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAtwGAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T15:25:31.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\balig\\Visual Studio\\C#\\Gyakorlas\\trafipax\\trafipax\\trafipax\\Form1.cs",
+              "RelativeDocumentMoniker": "trafipax\\Form1.cs",
+              "ToolTip": "C:\\Users\\balig\\Visual Studio\\C#\\Gyakorlas\\trafipax\\trafipax\\trafipax\\Form1.cs [Design]",
+              "RelativeToolTip": "trafipax\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T16:24:15.776Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\balig\\Visual Studio\\C#\\Gyakorlas\\trafipax\\trafipax\\trafipax\\Form1.cs",
+              "RelativeDocumentMoniker": "trafipax\\Form1.cs",
+              "ToolTip": "C:\\Users\\balig\\Visual Studio\\C#\\Gyakorlas\\trafipax\\trafipax\\trafipax\\Form1.cs",
+              "RelativeToolTip": "trafipax\\Form1.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAtwCcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T16:45:38.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormRogzites.cs",
+              "DocumentMoniker": "C:\\Users\\balig\\Visual Studio\\C#\\Gyakorlas\\trafipax\\trafipax\\trafipax\\FormRogzites.cs",
+              "RelativeDocumentMoniker": "trafipax\\FormRogzites.cs",
+              "ToolTip": "C:\\Users\\balig\\Visual Studio\\C#\\Gyakorlas\\trafipax\\trafipax\\trafipax\\FormRogzites.cs",
+              "RelativeToolTip": "trafipax\\FormRogzites.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAlwCUAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T15:04:19.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormStatisztika.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\balig\\Visual Studio\\C#\\Gyakorlas\\trafipax\\trafipax\\trafipax\\FormStatisztika.cs",
+              "RelativeDocumentMoniker": "trafipax\\FormStatisztika.cs",
+              "ToolTip": "C:\\Users\\balig\\Visual Studio\\C#\\Gyakorlas\\trafipax\\trafipax\\trafipax\\FormStatisztika.cs [Design]*",
+              "RelativeToolTip": "trafipax\\FormStatisztika.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T15:18:24.806Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormRogzites.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\balig\\Visual Studio\\C#\\Gyakorlas\\trafipax\\trafipax\\trafipax\\FormRogzites.cs",
+              "RelativeDocumentMoniker": "trafipax\\FormRogzites.cs",
+              "ToolTip": "C:\\Users\\balig\\Visual Studio\\C#\\Gyakorlas\\trafipax\\trafipax\\trafipax\\FormRogzites.cs [Design]",
+              "RelativeToolTip": "trafipax\\FormRogzites.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T16:51:29.45Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Meresek.cs",
+              "DocumentMoniker": "C:\\Users\\balig\\Visual Studio\\C#\\Gyakorlas\\trafipax\\trafipax\\trafipax\\Meresek.cs",
+              "RelativeDocumentMoniker": "trafipax\\Meresek.cs",
+              "ToolTip": "C:\\Users\\balig\\Visual Studio\\C#\\Gyakorlas\\trafipax\\trafipax\\trafipax\\Meresek.cs",
+              "RelativeToolTip": "trafipax\\Meresek.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAiwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T15:34:26.548Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
